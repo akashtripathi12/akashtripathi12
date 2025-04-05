@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I'm a 2nd year student at ABV-IIITM Gwalior<br>I'm currently exploring different technologies and building cool stuff along the way.<br>Passionate about software development, data analysis, and creating impactful projects.
 <br>
-📄 [View My Resume](https://your-cv-link.com](https://drive.google.com/file/d/1XXsWTSEv4Z8xSO8E9BAiAnGzk6prQjOQ/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/1XXsWTSEv4Z8xSO8E9BAiAnGzk6prQjOQ/view?usp=sharing)
 
 <div align="center">
 
